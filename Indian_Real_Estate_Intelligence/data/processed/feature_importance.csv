@@ -1,0 +1,114 @@
+feature_name,importance
+remainder__totalFlrNum,0.3857145737996237
+remainder__luxury_score,0.22362110348192127
+cat__flrNum_9,0.18507740453022187
+remainder__bedrooms,0.03563446178267031
+remainder__bathrooms,0.026417597132596643
+remainder__carpetArea,0.019257974900275244
+cat__furnishing_9,0.01892263293371859
+cat__city_Lucknow,0.010594401177845672
+remainder__balconies,0.008793502878452085
+cat__city_Mumbai,0.00807305982008877
+cat__city_Bhopal,0.007384067767104221
+cat__city_Patna,0.0071685624462058855
+remainder__noOfLifts,0.006327889874347636
+cat__city_Goa,0.005275321189003515
+cat__city_Jaipur,0.005234942159581196
+cat__city_Raipur,0.00518130326899307
+cat__propertyType_Multistorey Apartment,0.005173874565130533
+cat__city_Chandigarh,0.0048182776618233576
+cat__propertyType_Residential House,0.003878535050153823
+cat__city_Dehradun,0.0033759525813908766
+cat__facing_9,0.00231438288620977
+cat__furnishing_Unfurnished,0.001981052472051768
+cat__flrNum_2,0.001749703120659412
+cat__propertyType_Builder Floor Apartment,0.001653934366383076
+cat__carpetAreaUnit_Sq-ft,0.0016032788682092418
+cat__carpetAreaUnit_9,0.0015728250963742496
+cat__furnishing_Furnished,0.0014698588801766005
+cat__furnishing_Semi-Furnished,0.001313286892311515
+cat__flrNum_Ground,0.0010954292734291092
+cat__propertyType_Studio Apartment,0.0009777712764579838
+cat__flrNum_5,0.0008329863507110485
+cat__flrNum_3,0.0007902436541499636
+cat__propertyType_Villa,0.0006985178640007288
+cat__carpetAreaUnit_Biswa1,0.000692784483182001
+cat__propertyType_Penthouse,0.0005796774960421927
+cat__facing_North,0.0005339255102289821
+cat__facing_East,0.0004979543886558841
+cat__flrNum_1,0.0003940325656399914
+cat__facing_North - East,0.0003894534646716403
+cat__flrNum_6,0.0003837339530702463
+cat__carpetAreaUnit_Sq-m,0.00035832294622623094
+cat__brokerage_9,0.00033127205829150354
+cat__maintenanceChargesFrequency_9,0.00019580931258024939
+cat__brokerage_1%,0.00017817149085082773
+cat__flrNum_4,0.0001513972389404514
+cat__facing_West,0.00014956398087070182
+cat__flrNum_7,0.00013365547121538265
+cat__facing_North - West,0.00012868630340315517
+cat__brokerage_No Brokerage,0.00011526378336054798
+cat__maintenanceChargesFrequency_Monthly,0.00011399583179891585
+cat__facing_South - East,0.00010517159342429427
+cat__brokerage_2%,0.00010105843507877431
+cat__facing_South -West,9.994034251980201e-05
+cat__facing_South,9.744494606402752e-05
+cat__carpetAreaUnit_Sq-yrd,7.555628577462812e-05
+cat__flrNum_8,2.7305011425142872e-05
+cat__flrNum_10,2.109637975246526e-05
+cat__carpetAreaUnit_Marla,2.0606673133708172e-05
+cat__flrNum_Lower Basement,1.540426394889764e-05
+cat__flrNum_11,1.417821017968443e-05
+cat__flrNum_13,1.140512810254085e-05
+cat__flrNum_18,1.0663721890986832e-05
+cat__maintenanceChargesFrequency_Per sq. Unit Monthly,9.852790208178368e-06
+cat__maintenanceChargesFrequency_Yearly,9.78274498019323e-06
+cat__flrNum_12,8.977771780568636e-06
+cat__maintenanceChargesFrequency_One-Time,8.780120091617947e-06
+cat__flrNum_Upper Basement,8.584493054846235e-06
+cat__flrNum_17,6.282859698392333e-06
+cat__brokerage_1.5%,5.431254102433628e-06
+cat__flrNum_15,5.219935244068193e-06
+cat__flrNum_14,4.965089679607237e-06
+cat__brokerage_0.25%,4.0144794784588654e-06
+cat__flrNum_19,3.2381741859547396e-06
+cat__flrNum_16,2.6643424954702174e-06
+cat__flrNum_20,2.3993772156260652e-06
+cat__flrNum_21,2.1777501974502075e-06
+cat__flrNum_28,1.9547995137021278e-06
+cat__flrNum_24,1.1154842511494574e-06
+cat__flrNum_60,1.0239787144383293e-06
+cat__flrNum_30,9.993358809416747e-07
+cat__flrNum_38,7.082783234549784e-07
+cat__flrNum_22,6.881299184769426e-07
+cat__city_Gangtok,6.031015098349371e-07
+cat__flrNum_26,4.1794170809716913e-07
+cat__flrNum_45,3.5959468811000683e-07
+cat__flrNum_25,3.404253801327948e-07
+cat__flrNum_42,3.2317043859069463e-07
+cat__flrNum_35,3.003562065697442e-07
+cat__brokerage_3%,2.9848031715279145e-07
+cat__flrNum_46,2.941385553231723e-07
+cat__brokerage_5%,2.8869137058000414e-07
+cat__flrNum_29,2.2942778484375635e-07
+cat__flrNum_32,1.8961244456788367e-07
+cat__flrNum_33,1.6233859810093592e-07
+cat__flrNum_34,1.5823854422143054e-07
+cat__flrNum_56,1.5169889916532889e-07
+cat__flrNum_36,1.4065437315232052e-07
+cat__maintenanceChargesFrequency_Quarterly,1.3898255994721337e-07
+cat__flrNum_65,9.230436994113002e-08
+cat__flrNum_40,6.701445555339201e-08
+cat__flrNum_23,6.011272084616302e-08
+cat__flrNum_31,5.76882307989168e-08
+cat__flrNum_27,5.767870161451102e-08
+cat__flrNum_37,5.501871725283005e-08
+cat__flrNum_58,4.268176265116579e-08
+cat__brokerage_0.75%,3.121455177944277e-08
+cat__brokerage_0.5%,1.805582276643026e-08
+cat__flrNum_47,1.497278027570979e-08
+cat__flrNum_53,3.942896499839747e-09
+cat__carpetAreaUnit_Kanal,2.4179185842318908e-21
+remainder__securityDeposit,0.0
+remainder__maintenanceCharges,0.0
+remainder__firstMonthCharges,0.0
